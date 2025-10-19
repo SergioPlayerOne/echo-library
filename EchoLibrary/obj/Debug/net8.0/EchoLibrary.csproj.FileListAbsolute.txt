@@ -1,0 +1,11 @@
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\bin\Debug\net8.0\EchoLibrary.deps.json
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\bin\Debug\net8.0\EchoLibrary.dll
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\bin\Debug\net8.0\EchoLibrary.pdb
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.AssemblyInfoInputs.cache
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.AssemblyInfo.cs
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.csproj.CoreCompileInputs.cache
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.dll
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\refint\EchoLibrary.dll
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.pdb
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\ref\EchoLibrary.dll
