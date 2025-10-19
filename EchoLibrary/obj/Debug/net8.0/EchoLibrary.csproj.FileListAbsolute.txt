@@ -9,3 +9,5 @@ C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.dll
 C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\refint\EchoLibrary.dll
 C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.pdb
 C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\ref\EchoLibrary.dll
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.csproj.AssemblyReference.cache
+C:\Proyectos\EchoLibrarySolution\EchoLibrary\obj\Debug\net8.0\EchoLibrary.sourcelink.json

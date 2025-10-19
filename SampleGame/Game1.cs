@@ -5,30 +5,18 @@ using EchoLibrary;
 
 namespace SampleGame;
 
-public class Game1 : Game
+public class Game1 : EchoGame
 {
-    private GraphicsDeviceManager _graphics;
-    private SpriteBatch _spriteBatch;
-
-    public Game1()
-    {
-        _graphics = new GraphicsDeviceManager(this);
-        Content.RootDirectory = "Content";
-        IsMouseVisible = true;
-    }
-
+    public Game1() : base("Sample Game", 1280, 720, false) {}
     protected override void Initialize()
     {
         // TODO: Add your initialization logic here
 
         base.Initialize();
-        EchoLibrary.Test.TestFunction();
     }
 
     protected override void LoadContent()
     {
-        _spriteBatch = new SpriteBatch(GraphicsDevice);
-
         // TODO: use this.Content to load your game content here
     }
 

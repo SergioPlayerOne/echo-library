@@ -31,3 +31,4 @@ C:\Proyectos\EchoLibrarySolution\SampleGame\obj\Debug\net8.0\SampleGame.genrunti
 C:\Proyectos\EchoLibrarySolution\SampleGame\obj\Debug\net8.0\ref\SampleGame.dll
 C:\Proyectos\EchoLibrarySolution\SampleGame\bin\Debug\net8.0\EchoLibrary.dll
 C:\Proyectos\EchoLibrarySolution\SampleGame\bin\Debug\net8.0\EchoLibrary.pdb
+C:\Proyectos\EchoLibrarySolution\SampleGame\obj\Debug\net8.0\SampleGame.sourcelink.json
