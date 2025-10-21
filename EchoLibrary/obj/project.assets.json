@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\EchoLibrarySolution\\EchoLibrary\\EchoLibrary.csproj",
+      "projectUniqueName": "C:\\Proyectos\\EchoFrameworkSolution\\EchoLibrary\\EchoLibrary.csproj",
       "projectName": "EchoLibrary",
-      "projectPath": "C:\\Proyectos\\EchoLibrarySolution\\EchoLibrary\\EchoLibrary.csproj",
+      "projectPath": "C:\\Proyectos\\EchoFrameworkSolution\\EchoLibrary\\EchoLibrary.csproj",
       "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\EchoLibrarySolution\\EchoLibrary\\obj\\",
+      "outputPath": "C:\\Proyectos\\EchoFrameworkSolution\\EchoLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

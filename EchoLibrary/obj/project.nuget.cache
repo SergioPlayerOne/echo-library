@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e7DcY/8eUvU=",
+  "dgSpecHash": "9hbFSZcjiDg=",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\EchoLibrarySolution\\EchoLibrary\\EchoLibrary.csproj",
+  "projectFilePath": "C:\\Proyectos\\EchoFrameworkSolution\\EchoLibrary\\EchoLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
