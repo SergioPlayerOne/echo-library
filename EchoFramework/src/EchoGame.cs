@@ -3,18 +3,17 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Content;
 
-namespace EchoLibrary;
+namespace EchoFramework;
 
 /// <summary>
 /// The base class for any game using the EchoLibrary
 /// </summary>
 public class EchoGame : Game
 {
-    internal static EchoGame _instance;
     /// <summary>
     /// The static reference to the EchoGame class instance
     /// </summary>
-    public static EchoGame Instance => _instance;
+    public static EchoGame Instance;
 
     /// <summary>
     /// Gets the graphics device manager to control the presentation of graphics.
@@ -39,12 +38,12 @@ public class EchoGame : Game
     public EchoGame(string title, int width, int height, bool fullScreen)
     {
         // Ensures that multiple EchoGame instances are not created
-        if (_instance != null)
+        if (Instance != null)
         {
             throw new InvalidOperationException("Only one EchoGame instance can be created");
         }
 
-        _instance = this;
+        Instance = this;
 
         Graphics = new GraphicsDeviceManager(this);
 

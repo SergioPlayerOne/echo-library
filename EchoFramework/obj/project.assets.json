@@ -264,7 +264,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Monogame.Framework.DesktopGL >= 3.8.4"
+      "MonoGame.Framework.DesktopGL >= 3.8.4"
     ]
   },
   "packageFolders": {
@@ -274,11 +274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\EchoLibrarySolution\\EchoLibrary\\EchoLibrary.csproj",
-      "projectName": "EchoLibrary",
-      "projectPath": "C:\\Proyectos\\EchoLibrarySolution\\EchoLibrary\\EchoLibrary.csproj",
+      "projectUniqueName": "C:\\Proyectos\\EchoFrameworkSolution\\EchoFramework\\EchoFramework.csproj",
+      "projectName": "EchoFramework",
+      "projectPath": "C:\\Proyectos\\EchoFrameworkSolution\\EchoFramework\\EchoFramework.csproj",
       "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\EchoLibrarySolution\\EchoLibrary\\obj\\",
+      "outputPath": "C:\\Proyectos\\EchoFrameworkSolution\\EchoFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -315,7 +315,7 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "Monogame.Framework.DesktopGL": {
+          "MonoGame.Framework.DesktopGL": {
             "target": "Package",
             "version": "[3.8.4, )"
           }
