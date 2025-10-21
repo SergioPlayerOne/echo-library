@@ -131,14 +131,14 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-      "EchoLibrary/1.0.0": {
+      "EchoFramework/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/EchoLibrary.dll": {}
+          "bin/placeholder/EchoFramework.dll": {}
         },
         "runtime": {
-          "bin/placeholder/EchoLibrary.dll": {}
+          "bin/placeholder/EchoFramework.dll": {}
         }
       }
     }
@@ -297,15 +297,15 @@
         "version.txt"
       ]
     },
-    "EchoLibrary/1.0.0": {
+    "EchoFramework/1.0.0": {
       "type": "project",
-      "path": "../EchoLibrary/EchoLibrary.csproj",
-      "msbuildProject": "../EchoLibrary/EchoLibrary.csproj"
+      "path": "../EchoFramework/EchoFramework.csproj",
+      "msbuildProject": "../EchoFramework/EchoFramework.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "EchoLibrary >= 1.0.0",
+      "EchoFramework >= 1.0.0",
       "MonoGame.Content.Builder.Task >= 3.8.*",
       "MonoGame.Framework.DesktopGL >= 3.8.*"
     ]
@@ -340,8 +340,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Proyectos\\EchoFrameworkSolution\\EchoLibrary\\EchoLibrary.csproj": {
-              "projectPath": "C:\\Proyectos\\EchoFrameworkSolution\\EchoLibrary\\EchoLibrary.csproj"
+            "C:\\Proyectos\\EchoFrameworkSolution\\EchoFramework\\EchoFramework.csproj": {
+              "projectPath": "C:\\Proyectos\\EchoFrameworkSolution\\EchoFramework\\EchoFramework.csproj"
             }
           }
         }

@@ -1,7 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using EchoLibrary;
 
 namespace SampleGame;
 
@@ -22,7 +21,6 @@ public class Game1 : Game
         // TODO: Add your initialization logic here
 
         base.Initialize();
-        EchoLibrary.Test.TestFunction();
     }
 
     protected override void LoadContent()
