@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EchoFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b18f041a6446251c53aef543009f2886cb38191")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c250456d681ef94161d3ca79985375b1058a7a95")]
 [assembly: System.Reflection.AssemblyProductAttribute("EchoFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EchoFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
