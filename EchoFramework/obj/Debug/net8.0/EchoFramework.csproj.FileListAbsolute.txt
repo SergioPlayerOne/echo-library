@@ -1,0 +1,13 @@
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\bin\Debug\net8.0\EchoFramework.deps.json
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\bin\Debug\net8.0\EchoFramework.dll
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\bin\Debug\net8.0\EchoFramework.pdb
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\EchoFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\EchoFramework.AssemblyInfoInputs.cache
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\EchoFramework.AssemblyInfo.cs
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\EchoFramework.csproj.CoreCompileInputs.cache
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\EchoFramework.sourcelink.json
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\EchoFramework.dll
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\refint\EchoFramework.dll
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\EchoFramework.pdb
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\ref\EchoFramework.dll
+C:\Proyectos\EchoFrameworkSolution\EchoFramework\obj\Debug\net8.0\EchoFramework.csproj.AssemblyReference.cache
